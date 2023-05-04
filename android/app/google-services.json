@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726738819022",
+    "project_id": "read-write-4ea69",
+    "storage_bucket": "read-write-4ea69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726738819022:android:21a43ef2cdaa7f5e31fd9f",
+        "android_client_info": {
+          "package_name": "com.example.read_write"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726738819022-1d2h2ri9v6qc856qb3e5eu564n1qm0er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqRdTnsDgp1_l_4B8PEUISbXgfiGDu7Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726738819022-1d2h2ri9v6qc856qb3e5eu564n1qm0er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
